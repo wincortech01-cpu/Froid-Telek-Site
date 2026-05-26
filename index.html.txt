@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Froid Telek</title>
+</head>
+<body>
+  <h1>Site OK 🚀</h1>
+</body>
+</html>
